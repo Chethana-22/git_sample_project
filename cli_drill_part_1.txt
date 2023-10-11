@@ -1,0 +1,75 @@
+ 1073  mkdir reviewDrill
+ 1074  cd reviewDrill
+ 1075  ls
+ 1076  clear
+ 1077  git init
+ 1078  mkdir hello
+ 1079  cd hello
+ 1080  mkdir five
+ 1081  mkdir one
+ 1082  ls
+ 1083  cd five
+ 1084  mkdir six
+ 1085  ls
+ 1086  cd dix
+ 1087  cd six
+ 1088  touch c.txt
+ 1089  mkdir seven
+ 1090  cd seven
+ 1091  touch error.log
+ 1092  ls
+ 1093  cd ,,
+ 1094  cd .
+ 1095  ls
+ 1096  cd ..
+ 1097  cd .
+ 1098  cd ..
+ 1099  ls
+ 1100  cd one
+ 1101  touch a.txt
+ 1102  touch b.txt
+ 1103  mkdir two
+ 1104  cd two
+ 1105  touch d.txt
+ 1106  mkdir three
+ 1107  tree
+ 1108  ls
+ 1109  cd three
+ 1110  ls
+ 1111  touch e.txt
+ 1112  mkdir four
+ 1113  touch access.log
+ 1114  ls
+ 1115  rmdir access.log
+ 1116  cd four
+ 1117  ls
+ 1118  touch access.log
+ 1119  cd ..
+ 1120  ls
+ 1121  cd two
+ 1122  ls
+ 1123  cd three
+ 1124  cd fur
+ 1125  cd four
+ 1126  ls
+ 1127  tree
+ 1128  sudp apt install tree
+ 1129  sudo apt install tree
+ 1130  cd ..
+ 1131  tree
+ 1132  ls
+ 1133  cd hellpo
+ 1134  cd hello
+ 1135  ls
+ 1136  cd one
+ 1137  ls
+ 1138  cd two
+ 1139  ls
+ 1140  cd three
+ 1141  ls
+ 1142  clear
+ 1143  cd ..
+ 1144  ls
+ 1145  tree
+ 1146  cd ..
+ 1147  clear
